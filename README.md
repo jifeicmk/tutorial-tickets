@@ -1,6 +1,6 @@
 # tickets
 
-A new Flutter project.
+参考youtube 链接进行学习
 
 ## Getting Started
 
