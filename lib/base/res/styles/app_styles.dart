@@ -12,6 +12,8 @@ class AppStyles {
   static TextStyle textStyle =
   TextStyle(fontSize: 15, fontWeight: FontWeight.w500, color: textColor);
 
+  static TextStyle headingStyle0 =
+  const TextStyle(fontSize: 12, fontWeight: FontWeight.w700, color: Color(0xFF687DAF));
   static TextStyle headingStyle1 =
       TextStyle(fontSize: 26, fontWeight: FontWeight.bold, color: textColor);
   static TextStyle headingStyle2 =
@@ -19,5 +21,6 @@ class AppStyles {
   static TextStyle headingStyle3 =
       const TextStyle(fontSize: 17, fontWeight: FontWeight.w500);
   static TextStyle headingStyle4 =
-      const TextStyle(fontSize: 12, fontWeight: FontWeight.w700, color: Color(0xFF687DAF));
+      const TextStyle(fontSize: 14, fontWeight: FontWeight.w500);
+
 }
