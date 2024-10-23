@@ -1,7 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:tickets/base/res/styles/app_styles.dart';
-import 'package:tickets/base/utils/all_json.dart';
 import 'package:tickets/base/widgets/app_column_text_layout.dart';
 import 'package:tickets/base/widgets/app_layoutbuilder_widget.dart';
 import 'package:tickets/base/widgets/big_circle.dart';
